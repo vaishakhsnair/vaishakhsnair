@@ -1,9 +1,9 @@
 
-# Hi there, I'm Vaishakh S Nair 👋  
+# Hi there, I'm Vaishakh 👋  
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=vaishakhsnair&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-> 💡 "Backend developer by day, security enthusiast by night, memeing my way."  
+> 💡 "Fuelled by pure lazyness."  
 
 ---
 
