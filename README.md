@@ -14,7 +14,10 @@
   A Firefox extension to detect deanonymization risks in Tor Browser.  
 
 - [**DID Webauthn**](https://github.com/vaishakhsnair/DID-Webauthn):  
-  Decentralized Webauthn Server.  
+  Decentralized Webauthn Server.
+- [**DecoyHive**](https://github.com/ForeverKnight1455/DecoyHive):  
+  Honey Pot Generator Toolkit with IDS Based Detection.
+
 ---
 
 ## 💪 Top Contributions  
